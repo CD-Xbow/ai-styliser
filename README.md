@@ -15,12 +15,12 @@ Original - https://github.com/hemant467/AI-art-Generator
 
 ### Image Upload
 
- -You upload a content image (your photo) via the UI.
+- You upload a content image (your photo) via the UI.
 - The system resizes and displays it.
 
 ### Style Selection
 
-You click "Generate new Art"—it fetches a random art image from Unsplash as the style reference.
+- You click "Generate new Art"—it fetches a random art image from Unsplash as the style reference.
 
 ### Stylisation
 
